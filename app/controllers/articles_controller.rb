@@ -1,8 +1,6 @@
 class ArticlesController < ApplicationController
-    def home
+    def show
+
     end
 
-    def about
-    end
-    
 end
